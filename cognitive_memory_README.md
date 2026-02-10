@@ -451,6 +451,5 @@ Built to solve problems identified in Letta:
 
 ---
 
-**License**: MIT  
 **Status**: Production-ready for 1,000+ concurrent sessions  
 **For Letta integration**: See integration guide above
